@@ -26,5 +26,6 @@ git push -u origin main
 3. Klik **Deploy**.
 
 ## Yang perlu diganti sebelum rilis
+- Bagian **Ulasan Pelanggan** masih berisi 3 slot kosong berlabel. Ganti dengan ulasan asli (izin pelanggan) atau hapus section `id="ulasan"` beserta link menunya.
 - Tombol "Belanja Sekarang" mengarah ke `https://www.instagram.com/fhna.jn`. Ganti dengan link toko online atau WhatsApp jika sudah ada.
 - Cek klaim produk (waterproof, ringan, tahan lama) sebelum dipublikasikan.
